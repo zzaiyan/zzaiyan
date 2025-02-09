@@ -5,4 +5,4 @@
 </picture>
 
 
-*Hi, here is [zzaiyan](https://zzaiyan.com/).*
+*Hi, here is [zzaiyan](https://zzaiyan.github.io).*
