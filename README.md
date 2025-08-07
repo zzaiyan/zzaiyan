@@ -1,6 +1,4 @@
 
-# Zaiyan Zhang (张再筵)
-
 *"A Research Beginner."* - Always learning, always exploring.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zzaiyan-blue?style=flat&logo=github)](https://github.com/zzaiyan)
