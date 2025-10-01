@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-I'm **Zaiyan Zhang (张再筵)**, currently pursuing an M.E. degree in **Photogrammetry and Remote Sensing** at [Wuhan University](https://www.whu.edu.cn/) (2025-present), supervised by Prof. [Qiangqiang Yuan](https://scholar.google.com/citations?user=aItnA-sAAAAJ). Previously, I obtained a B.E. degree in **Data Science and Big Data Technology** from [China University of Geosciences](https://www.cug.edu.cn/) (2021-2025).
+I'm **Zaiyan Zhang (张再筵)**, currently pursuing an M.E. degree in **Photogrammetry and Remote Sensing** at [Wuhan University](https://www.whu.edu.cn/) (2025-present), advised by Prof. [Qiangqiang Yuan](https://scholar.google.com/citations?user=aItnA-sAAAAJ) and A.P. [Jie Li](https://scholar.google.com/citations?user=W4VvnDMAAAAJ). Previously, I obtained a B.E. degree in **Data Science and Big Data Technology** from [China University of Geosciences](https://www.cug.edu.cn/) (2021-2025).
 
 ## 🔬 Research Interests
 
