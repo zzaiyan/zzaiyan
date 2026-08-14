@@ -4,6 +4,6 @@
 
 ✉️ I welcome collaboration and networking opportunities. Feel free to contact me via email!
 
-[![Website](https://img.shields.io/badge/Website-zzaiyan.com-blue?style=flat-square\&logo=googlechrome\&logoColor=white)](https://zzaiyan.com)
+[![Website](https://img.shields.io/badge/Website-zzaiyan.com-orange?style=flat-square\&logo=googlechrome\&logoColor=white)](https://zzaiyan.com)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=ZpxXejIAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-1%40zzaiyan.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:1@zzaiyan.com)
