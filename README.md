@@ -1,4 +1,4 @@
-👋 Hi there! I'm **Zaiyan Zhang (张再筵)**, an M.E. student at Wuhan University and a Research Intern at Shanghai AI Laboratory.
+👋 Hi there! I'm **Zaiyan Zhang (张再筵)**, an M.E. student at _Wuhan University_ and a Research Intern at _Shanghai AI Laboratory_.
 
 🔍 My research focuses on **remote sensing image processing**, **multimodal foundation models**, and **scientific agents**.
 
